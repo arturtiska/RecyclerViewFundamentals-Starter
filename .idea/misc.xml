@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/codeLabGoogleAndroid/RecyclerViewFundamentals-Starter/app/src/main/res/layout/fragment_sleep_tracker.xml" value="0.1796875" />
+        <entry key="..\:/codeLabGoogleAndroid/RecyclerViewFundamentals-Starter/app/src/main/res/layout/list_item_sleep_night.xml" value="0.1796875" />
+        <entry key="..\:/codeLabGoogleAndroid/RecyclerViewFundamentals-Starter/app/src/main/res/layout/text_item_view.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK" />
+</project>
